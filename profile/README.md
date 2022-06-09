@@ -1,4 +1,7 @@
-# Increasing Awareness towards Visually Impaired People with an Inclusive Mobile Application for English Learning
+<h1 align="center"> English for Everyone</h1>
+<h3 align="center"> Increasing Awareness towards Visually Impaired People with an Inclusive Mobile Application for English Learning</h3>
+
+
 
 ## Demo
 ![final_626eb93ab51522005ff4f7c4_177680 (1)](https://user-images.githubusercontent.com/61607058/166155790-2532d1f3-db08-42bb-bd3c-29b9d44f4e92.gif)
