@@ -1,5 +1,12 @@
 # Increasing Awareness towards Visually Impaired People with an Inclusive Mobile Application for English Learning
 
+## Demo
+![final_626eb93ab51522005ff4f7c4_177680 (1)](https://user-images.githubusercontent.com/61607058/166155790-2532d1f3-db08-42bb-bd3c-29b9d44f4e92.gif)
+
+## Screenshots
+
+![ss](https://user-images.githubusercontent.com/61607058/166154923-0c411c99-507c-4a72-9d0d-9dee5259a341.png)
+
 ## Problem
 Historically, protecting the rights of people with disabilities has been a slow process. The laws still discriminate against people with disabilities, often people with mental disabilities, in education, voting, and the provision of benefits and licenses. The vulnerability of visually impaired people in Colombia is more evident due to the lack of opportunities and access to education. 
 
